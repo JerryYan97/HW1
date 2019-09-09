@@ -1,0 +1,2 @@
+2019-09-06 10:37AM Initialization Lists for array members. http://www.voidcn.com/article/p-xsywxbfc-btr.html
+2019-09-06 11:31AM Try Catch implementation. http://www.cplusplus.com/doc/tutorial/exceptions/
